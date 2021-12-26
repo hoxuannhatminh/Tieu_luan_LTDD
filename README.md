@@ -1,4 +1,4 @@
-# PERSONEL
-- Attendance
-- Dashboard
-- Setting
+# Nhân viên
+- Chech
+- Làm việc
+- Cá nhân
